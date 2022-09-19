@@ -37,3 +37,12 @@ MyBatisX 插件，自动根据数据库生成：
 
 
 获取初始状态流程：首次访问页面（刷新页面），进入 app.tsx，执行 getInitialState 方法，该方法的返回值就是全局可用的状态值。
+## 登录界面
+
+![image](https://user-images.githubusercontent.com/66348590/191023229-e4c2a43f-5ca6-4fba-b18d-e043b5645a04.png)
+
+## 管理界面
+![image](https://user-images.githubusercontent.com/66348590/191024063-4f1b7d87-0f7a-4a9d-a819-897370b590a6.png)
+
+
+
